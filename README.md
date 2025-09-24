@@ -2,6 +2,9 @@ This tutorial is based on Machine Learning Mastery with Python book (Jason Brown
 
 Dr Mahdi Saadati, Ph.D. in Artificial Intelligence (AI)
 
+Educational videos for this course:
+https://ai.mazums.ac.ir/URL/Content-NA2WB
+
 • Site: https://ai.mazums.ac.ir
 
 • Youtube: https://www.youtube.com/c/MahdiSaadati
